@@ -1065,7 +1065,7 @@ github.com/mitchellh/go-wordwrap
 # github.com/mitchellh/mapstructure v1.5.0
 ## explicit; go 1.14
 github.com/mitchellh/mapstructure
-# github.com/moby/spdystream v0.5.0
+# github.com/moby/spdystream v0.5.0 => github.com/moby/spdystream v0.5.1
 ## explicit; go 1.13
 github.com/moby/spdystream
 github.com/moby/spdystream/spdy
@@ -2744,3 +2744,4 @@ sigs.k8s.io/yaml/goyaml.v3
 # sigs.k8s.io/cluster-api-provider-aws => github.com/openshift/cluster-api-provider-aws v0.2.1-0.20200929152424-eab2e087f366
 # sigs.k8s.io/cluster-api-provider-azure => sigs.k8s.io/cluster-api-provider-azure v1.22.0
 # github.com/go-jose/go-jose/v4 => github.com/go-jose/go-jose/v4 v4.1.4
+# github.com/moby/spdystream => github.com/moby/spdystream v0.5.1

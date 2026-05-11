@@ -328,3 +328,5 @@ replace (
 )
 
 replace github.com/go-jose/go-jose/v4 => github.com/go-jose/go-jose/v4 v4.1.4
+
+replace github.com/moby/spdystream => github.com/moby/spdystream v0.5.1
